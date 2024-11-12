@@ -67,7 +67,7 @@ npm run dev
 - **Vite** - Build Tool
 - **Lucide React** - Icons
 
-![image](https://github.com/user-attachments/assets/69c8df17-c94b-4f02-8be2-65ffe568b672)
+![image](https://github.com/user-attachments/assets/5d342a92-4f4a-4591-80c6-140d0f012197)
 
 
 ## 📖 Usage
