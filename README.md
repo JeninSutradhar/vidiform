@@ -10,27 +10,25 @@ Vidiform is a modern, intuitive web application for managing and editing video m
 
 ### Core Functionality
 
-- 📁 Drag-and-drop file upload
-- 🎯 Multi-file support
-- 📝 Editable metadata fields
-- 🔄 Auto-metadata extraction
-- 📊 Custom field support
+-  Drag-and-drop file upload
+-  Multi-file support
+-  Editable metadata fields
+-  Auto-metadata extraction
+-  Custom field support
 
 ### Export Options
 
-- 📋 JSON format
-- 📈 CSV format
-- 📑 XML format
+- JSON format
+- CSV format
+- XML format
 
 ### Technical Features
 
 - ⚡ Fast and responsive UI
-- 🎨 Modern design with smooth transitions
-- 📱 Fully responsive layout
-- 🔍 Real-time preview
-- 🎯 Type-safe with TypeScript
-
-## 🚀 Getting Started
+-  Modern design with smooth transitions
+-  Fully responsive layout
+-  Real-time preview
+-  Type-safe with TypeScript
 
 ### Prerequisites
 
@@ -58,19 +56,10 @@ npm install
 npm run dev
 ```
 
-## 🛠️ Built With
-
-- **React** - UI Framework
-- **TypeScript** - Type Safety
-- **Tailwind CSS** - Styling
-- **Framer Motion** - Animations
-- **Vite** - Build Tool
-- **Lucide React** - Icons
-
 ![image](https://github.com/user-attachments/assets/5d342a92-4f4a-4591-80c6-140d0f012197)
 
 
-## 📖 Usage
+##  Usage
 
 1. **Upload Files**
 
@@ -89,7 +78,7 @@ npm run dev
    - Choose your preferred format (JSON/CSV/XML)
    - Download the exported file
 
-## 🎯 Key Features in Detail
+##  Key Features in Detail
 
 ### Metadata Management
 
@@ -122,11 +111,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Icons by [Lucide](https://lucide.dev)
-- UI inspiration from modern web applications
-- Community feedback and contributions
 
 ---
